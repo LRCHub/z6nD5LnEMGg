@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "I miss you, I’m sorry",
+  "base_artist": "Gracie Abrams",
+  "createdAt": "2026-03-01T04:57:29.696475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Miss You, I’m Sorry",
+      "artist": "Odette",
+      "has_synced": true,
+      "path": "select/01_I_Miss_You,_I’m_Sorry_Odette.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I miss you, I’m sorry",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/02_I_miss_you,_I’m_sorry_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I miss you, I’m sorry",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/03_I_miss_you,_I’m_sorry_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I miss you, I’m sorry",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/04_I_miss_you,_I’m_sorry_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I miss you, I’m sorry",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/05_I_miss_you,_I’m_sorry_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "﻿I miss you, I’m sorry",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/06_﻿I_miss_you,_I’m_sorry_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gracie Abrams - I miss you, I’m sorry",
+      "artist": "YUI.",
+      "has_synced": true,
+      "path": "select/07_Gracie_Abrams_-_I_miss_you,_I’m_sorry_YUI..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I miss you, I’m sorry",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/08_I_miss_you,_I’m_sorry_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I miss you, I’m sorry",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/09_I_miss_you,_I’m_sorry_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I miss you, I’m sorry (Paused)",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/10_I_miss_you,_I’m_sorry_(Paused)_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I miss you, I'm sorry",
+      "artist": "Gracie Abrams",
+      "has_synced": false,
+      "path": "select/pl_01_I_miss_you,_I'm_sorry_Gracie_Abrams.txt"
+    }
+  ]
+}
